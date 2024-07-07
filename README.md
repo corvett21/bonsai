@@ -1,7 +1,7 @@
 # bonsai
 A 16-key split wireless keyboard
 
-![image](https://github.com/corvett21/bonsai/assets/40398861/97032863-aee8-4ebb-a258-fe765af3cc99)
+![24-07-06-1720317942](https://github.com/corvett21/bonsai/assets/40398861/52d19993-e0fa-4371-89c1-0b37d9c19203)
 
 Build of Materials
  - Order of PCBs (Reversible)
