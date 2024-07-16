@@ -64,7 +64,7 @@
       39,
       40
     ],
-    "visible_layers": "ffcfdff_ffffffff",
+    "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -74,7 +74,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "bonsai.kicad_prl",
+    "filename": "bonsai-nogroundfill.kicad_prl",
     "version": 3
   },
   "project": {
