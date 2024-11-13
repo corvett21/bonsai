@@ -10,7 +10,7 @@ Without ground pour, use the zip file "bonsai-ngp-jul15"
 ![image](https://github.com/user-attachments/assets/64c26d54-c1ba-4ad7-9485-4fc59acfd2eb)
 - Use if you're concerned about the ground pour impacting the BLE signal
 
-Build of Materials
+Bill of Materials
  - Order of PCBs (Reversible)
  - 16x Kailh Choc Minis PG1232 - available at Chosfox
  - 2x Power Switch Alps Mini SPDT - available to ship to US from typeractive.xyz or use your favorite vendor
